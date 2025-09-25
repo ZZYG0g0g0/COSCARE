@@ -34,7 +34,7 @@
 │      RQ2_test.py		#根据Result文件夹中的结果进行性能指标计算
 │      code_abstract.py		#生成代码摘要
 │      knowledge_base_build.py		#构建知识库
-    ```
+```
 
 ### 数据集
 
@@ -117,6 +117,7 @@ output_file = "./Result/SMOS_predict_with_instance_ca.xlsx"
 ```shell
 python RQ2/RQ2_run.py
 ```
+
 
 
 
