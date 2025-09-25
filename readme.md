@@ -38,7 +38,7 @@
 
 ### 数据集
 
-本研究中经处理后的数据集(将原始的项目转换成了csv文件)已放置于`Dataset`文件夹下，如需获得更多数据集你可以访问[here](https://drive.google.com/drive/folders/1-0MJEreOJr6F5lDQtJnCV5aNjQn_PDJX?dmr=1&ec=wgc-drive-hero-goto)
+本研究中经处理后的数据集(将原始的项目转换成了csv文件)已放置于`Dataset`文件夹下，如需获得更多数据集你可以访问[此链接](https://drive.google.com/drive/folders/1-0MJEreOJr6F5lDQtJnCV5aNjQn_PDJX?dmr=1&ec=wgc-drive-hero-goto)
 
 ### 如何使用COSCARE
 
@@ -117,6 +117,7 @@ output_file = "./Result/SMOS_predict_with_instance_ca.xlsx"
 ```shell
 python RQ2/RQ2_run.py
 ```
+
 
 
 
