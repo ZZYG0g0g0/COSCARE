@@ -12,7 +12,7 @@
 ```
 │  readme.md                                    # 项目描述
 │  requirements.txt                             # 环境配置
-├─fig                                           # Readme文件中的图片
+├─Fig2.png                                           # Readme文件中的图片
 │      
 ├─Dataset                                 #数据集
 │      SMOS                 
@@ -117,6 +117,7 @@ output_file = "./Result/SMOS_predict_with_instance_ca.xlsx"
 ```shell
 python RQ2/RQ2_run.py
 ```
+
 
 
 
