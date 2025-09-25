@@ -2,7 +2,7 @@
 
 ### 方法总览
 
-![1755574087379](https://github.com/ZZYG0g0g0/COSCARE/Fig2.png)
+![1755574087379][https://github.com/ZZYG0g0g0/COSCARE/Fig2.png](https://github.com/ZZYG0g0g0/COSCARE/blob/main/Fig2.png)
 
 现有LLMs的训练语料往往缺乏需求–代码链接恢复任务相关的数据，导致模型难以学习有效的任务表征。此外，尽管LLMs在自然语言理解方面表现优异，但在处理需求描述与程序代码这类跨语言制品时，仍面临语义鸿沟的挑战。针对上述问题，本研究提出COSCARE方法  ，通过融合代码摘要与索引增强的案例检索模块，提升需求-代码链接恢复。代码摘要将代码转换为自然语言表示，从而缩小其与需求之间的语义距离。而基于RAG的案例检索则借助外部知识库引入领域知识，增强模型决策能力。
 
@@ -117,6 +117,7 @@ output_file = "./Result/SMOS_predict_with_instance_ca.xlsx"
 ```shell
 python RQ2/RQ2_run.py
 ```
+
 
 
 
